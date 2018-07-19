@@ -1,3 +1,6 @@
+" Calls vundle plugin first
+source vundle.vim
+
 " General Vim settings
 	syntax on
 	let mapleader=","
