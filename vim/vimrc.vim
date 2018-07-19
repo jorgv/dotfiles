@@ -1,5 +1,5 @@
 " Calls vundle plugin first
-source vundle.vim
+so $HOME/dotfiles/vim/vundle.vim
 
 " General Vim settings
 	syntax on
